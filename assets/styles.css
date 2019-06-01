@@ -1,9 +1,9 @@
 body{
     text-align: center;
-    font-family: 'Segoe UI';
+    background: aquamarine;
 }
 .container{
-    background: aquamarine;
+    background: whitesmoke;
     border: 2px solid black;
     padding: 30px;
     width: 70%;
